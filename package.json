@@ -1,0 +1,16 @@
+{
+    "name": "aws-cloud-module",
+    "displayName": "AWS Cloud Module",
+    "description": "Constains extensions for Amazon Web Services",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
