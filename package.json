@@ -11,11 +11,11 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "4ops.terraform"
-        "vscode-aws-console.vscode-aws-console"
-        "aws-amplify.aws-amplify-vscode"
-        "thundra.thundra-debugger"
-        "loganarnett.lambda-snippets"
+        "4ops.terraform",
+        "vscode-aws-console.vscode-aws-console",
+        "aws-amplify.aws-amplify-vscode",
+        "thundra.thundra-debugger",
+        "loganarnett.lambda-snippets",
         "mziyabo.vscode-codedeploy"
     ]
 }
