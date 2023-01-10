@@ -4,6 +4,7 @@
     "description": "Constains extensions for Amazon Web Services",
     "version": "0.0.1",
     "publisher": "Maruf",
+    "repository": "https://github.com/mbeps/maruf.aws-cloud-module",
     "engines": {
         "vscode": "^1.70.0"
     },
